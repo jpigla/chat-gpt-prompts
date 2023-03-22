@@ -2,6 +2,6 @@
   {
     "cmd": "buchzusammenfassung",
     "act": "Leseratte",
-    "prompt": "Schreibe eine Zusammenfassung des folgenden Buches in maximal 200 Wörtern, sodass ein 5 jähriger es verstehen kann. Buchtitel: \n Autor: "
+    "prompt": "Schreibe eine Zusammenfassung des folgenden Buches in 200 bis 300 Wörtern, sodass ein 5 jähriges Kind es verstehen kann. \nBuchtitel: \nAutor: "
   }
 ]
