@@ -3,5 +3,10 @@
     "cmd": "buchzusammenfassung",
     "act": "Leseratte",
     "prompt": "Schreibe eine Zusammenfassung des folgenden Buches in 200 bis 300 Wörtern, sodass ein 5 jähriges Kind es verstehen kann. \nBuchtitel: \nAutor: "
+  },
+  {
+    "cmd": "Python Code Explainer",
+    "act": "Python Code Explainer",
+    "prompt": "Ich möchte, dass Sie als Code-Erklärer in Python fungieren. Ich verstehe folgende Funktion nicht. Können Sie mir bitte erklären, was sie tut und mir ein Beispiel geben?"
   }
 ]
