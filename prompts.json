@@ -1,12 +1,42 @@
 [
   {
-    "cmd": "buchzusammenfassung",
-    "act": "Leseratte",
+    "cmd": "buch zusammenfassen",
+    "act": "Buch zusammenfassen",
     "prompt": "Schreibe eine Zusammenfassung des folgenden Buches in 200 bis 300 Wörtern, sodass ein 5 jähriges Kind es verstehen kann. \nBuchtitel: \nAutor: "
   },
   {
-    "cmd": "Python Code Explainer",
-    "act": "Python Code Explainer",
-    "prompt": "Ich möchte, dass Sie als Code-Erklärer in Python fungieren. Ich verstehe folgende Funktion nicht. Können Sie mir bitte erklären, was sie tut und mir ein Beispiel geben?"
+    "cmd": "python code explanation",
+    "act": "Python code explanation",
+    "prompt": "I want you to act as a code explainer in Python. I don't understand this function. Can you please explain what it does, and provide an example?"
+  },
+  {
+    "cmd": "SQL code explanation",
+    "act": "SQL code explanation",
+    "prompt": "I want you to act as a code explainer in SQL. I don't understand this snippet. Can you please explain what it does, and provide an example?"
+  },
+  {
+    "cmd": "python code optimization",
+    "act": "python code optimization",
+    "prompt": "I want you to act as a code optimizer in Python. Can you make the code ... ?"
+  },
+  {
+    "cmd": "python code simplification",
+    "act": "python code simplification",
+    "prompt": "I want you to act as a programmer in Python. Please simplify this code while ensuring that it is ... ?"
+  },
+  {
+    "cmd": "code translation",
+    "act": "code translation",
+    "prompt": "I want you to act as a programmer in R. Please translate this code to Python."
+  },
+  {
+    "cmd": "compare function speeds in Python",
+    "act": "compare function speeds in Python",
+    "prompt": "I want you to act as a Python programmer. Can you write code that compares the speed of two functions {functionname} and {functionname}?"
+  },
+  {
+    "cmd": "unit tests in Python",
+    "act": "unit tests in Python",
+    "prompt": "I want you to act as a Python Programmer. Can you please write unit tests for the function {functionname}? {Insert requirements for unit tests, if any} {Insert code}"
   }
 ]
