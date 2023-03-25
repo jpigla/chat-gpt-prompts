@@ -7,32 +7,32 @@
   {
     "cmd": "python code explanation",
     "act": "Python code explanation",
-    "prompt": "I want you to act as a code explainer in Python. I don't understand this function. Can you please explain what it does, and provide an example?"
+    "prompt": "I want you to act as a code explainer in Python. I don't understand this function. Can you please explain what it does, and provide an example? {Insert code}"
   },
   {
     "cmd": "SQL code explanation",
     "act": "SQL code explanation",
-    "prompt": "I want you to act as a code explainer in SQL. I don't understand this snippet. Can you please explain what it does, and provide an example?"
+    "prompt": "I want you to act as a code explainer in SQL. I don't understand this snippet. Can you please explain what it does, and provide an example? {Insert code}"
   },
   {
     "cmd": "python code optimization",
     "act": "python code optimization",
-    "prompt": "I want you to act as a code optimizer in Python. Can you make the code ... ?"
+    "prompt": "I want you to act as a code optimizer in Python. Can you make the code ... ? {Insert code}"
   },
   {
     "cmd": "python code simplification",
     "act": "python code simplification",
-    "prompt": "I want you to act as a programmer in Python. Please simplify this code while ensuring that it is ... ?"
+    "prompt": "I want you to act as a programmer in Python. Please simplify this code while ensuring that it is ... ? {Insert code}"
   },
   {
     "cmd": "code translation",
     "act": "code translation",
-    "prompt": "I want you to act as a programmer in R. Please translate this code to Python."
+    "prompt": "I want you to act as a programmer in R. Please translate this code to Python. {Insert code}"
   },
   {
     "cmd": "compare function speeds in Python",
     "act": "compare function speeds in Python",
-    "prompt": "I want you to act as a Python programmer. Can you write code that compares the speed of two functions {functionname} and {functionname}?"
+    "prompt": "I want you to act as a Python programmer. Can you write code that compares the speed of two functions {functionname} and {functionname}? {Insert code}"
   },
   {
     "cmd": "unit tests in Python",
